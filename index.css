@@ -15,3 +15,7 @@ h2 {
     max-width: 128px;
     max-height: 128px;
 }
+img.center {
+    display: flex;
+    justify-content: center;
+}
